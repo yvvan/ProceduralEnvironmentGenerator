@@ -5,6 +5,8 @@ Unzip the package into the Plugins directory of your game. To add it as an engin
 How to use this Plugin
 -------------
 
+Check out the video tutorial: https://www.youtube.com/watch?v=0t3A4YZM6ks
+
 In the plugin description you can see the screenshots made after putting WfcActorWithBlueprint (Content/Demo) into the scene and pressing button "Generate in Editor" in the WfcActorWithBlueprint details panel.
 For the demo content it's not recommended to change "Ground", "Floor Border", "Air Border" and "Voxel Size" values.
 
