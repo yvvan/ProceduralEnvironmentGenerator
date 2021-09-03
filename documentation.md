@@ -79,7 +79,7 @@ Wfc Voxel:
 
 Placeholder (could also be applied to all the selected placeholders):
 -------------
- - Random/<The Wfc Voxel name>. If the specific name is selected it will be used for "Collapse" or "Add to Fixed Components" (see below).
+ - Random/(Wfc Voxel name). If the specific name is selected it will be used for "Collapse" or "Add to Fixed Components" (see below).
  - Collapse. Tell the lagorithm to collapse (and propagate afterward) at the selected position.
  - Add to Fixed Components. Add this component to the list of the fixed components of the parent Wfc Actor.
  - Remove. Removes this coordinates from the elements considered collapsed by the algorithm.
